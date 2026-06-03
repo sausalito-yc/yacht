@@ -1,0 +1,20 @@
+{
+  "name": "サウサリートヨットクラブ",
+  "short_name": "サウサリートYC",
+  "description": "西宮港周辺で毎週日曜に活動する、1984年から続くヨットクラブ。クルージング中心の心地よい時間を、初心者にも経験者にも。",
+  "lang": "ja",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FCFCFA",
+  "theme_color": "#0B2545",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

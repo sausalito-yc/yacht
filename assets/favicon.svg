@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0B2545"/>
+  <!-- 帆船シルエット -->
+  <path d="M32 14 L32 42" stroke="#FCFCFA" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M32 16 L46 40 L32 40 Z" fill="#FCFCFA" opacity=".95"/>
+  <path d="M32 20 L20 40 L32 40 Z" fill="#BFD7EA" opacity=".85"/>
+  <!-- 船体 -->
+  <path d="M16 44 Q32 52 48 44 L44 48 L20 48 Z" fill="#FCFCFA"/>
+  <!-- 波 -->
+  <path d="M10 54 Q16 51 22 54 T34 54 T46 54 T58 54" stroke="#8DA9C4" stroke-width="1.2" fill="none" stroke-linecap="round" opacity=".8"/>
+</svg>
