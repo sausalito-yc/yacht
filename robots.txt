@@ -1,5 +1,11 @@
+# robots.txt for Sausalito Yacht Club
+# https://sausalito-yc.github.io/yacht/
+
 User-agent: *
 Allow: /
-Disallow: /assets/js/
 
+# 画像・スクリプト・スタイルシートは検索エンジンに公開
+# (JSやCSSをブロックするとレンダリング判定で不利になるため許可)
+
+# サイトマップの場所
 Sitemap: https://sausalito-yc.github.io/yacht/sitemap.xml

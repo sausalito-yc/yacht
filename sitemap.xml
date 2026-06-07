@@ -1,59 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ========== トップページ ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/</loc>
-    <lastmod>2025-04-01</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sausalito-yc.github.io/yacht/"/>
+    <image:image>
+      <image:loc>https://sausalito-yc.github.io/yacht/assets/images/hero-main.jpg</image:loc>
+      <image:title>サウサリートヨットクラブ — 西宮港のヨット</image:title>
+      <image:caption>1984年から続く、西宮港周辺で毎週日曜に活動するヨットクラブ</image:caption>
+    </image:image>
   </url>
+
+  <!-- ========== 無料体験(コンバージョン最重要) ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/trial.html</loc>
-    <lastmod>2025-04-01</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/trial.html"/>
+    <image:image>
+      <image:loc>https://sausalito-yc.github.io/yacht/assets/images/hero-main.jpg</image:loc>
+      <image:title>ヨット無料体験のお申し込み</image:title>
+    </image:image>
   </url>
+
+  <!-- ========== はじめての方 ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/beginners.html</loc>
-    <lastmod>2025-04-01</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/beginners.html"/>
+    <image:image>
+      <image:loc>https://sausalito-yc.github.io/yacht/assets/images/people-onboard.jpg</image:loc>
+      <image:title>はじめてヨットを体験したい方へ</image:title>
+    </image:image>
   </url>
+
+  <!-- ========== 経験者の方 ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/experienced.html</loc>
-    <lastmod>2025-04-01</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/experienced.html"/>
+    <image:image>
+      <image:loc>https://sausalito-yc.github.io/yacht/assets/images/helm.jpg</image:loc>
+      <image:title>ヨット経験者の方へ</image:title>
+    </image:image>
   </url>
+
+  <!-- ========== クラブについて・歴史 ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/about.html</loc>
-    <lastmod>2025-04-01</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/about.html"/>
+    <image:image>
+      <image:loc>https://sausalito-yc.github.io/yacht/assets/images/harbor.jpg</image:loc>
+      <image:title>クラブの活動内容・歴史</image:title>
+    </image:image>
   </url>
+
+  <!-- ========== 会費・料金 ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/fees.html</loc>
-    <lastmod>2025-04-01</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/fees.html"/>
+    <image:image>
+      <image:loc>https://sausalito-yc.github.io/yacht/assets/images/marina.jpg</image:loc>
+      <image:title>会費・料金体系</image:title>
+    </image:image>
   </url>
+
+  <!-- ========== アクセス・施設 ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/access.html</loc>
-    <lastmod>2025-04-01</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/access.html"/>
+    <image:image>
+      <image:loc>https://sausalito-yc.github.io/yacht/assets/images/harbor.jpg</image:loc>
+      <image:title>アクセス・施設紹介 — 西宮港</image:title>
+    </image:image>
   </url>
+
+  <!-- ========== FAQ ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/faq.html</loc>
-    <lastmod>2025-04-01</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/faq.html"/>
+    <image:image>
+      <image:loc>https://sausalito-yc.github.io/yacht/assets/images/sunset-sea.jpg</image:loc>
+      <image:title>よくあるご質問</image:title>
+    </image:image>
   </url>
+
+  <!-- ========== お問い合わせ ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/contact.html</loc>
-    <lastmod>2025-04-01</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/contact.html"/>
+    <image:image>
+      <image:loc>https://sausalito-yc.github.io/yacht/assets/images/horizon.jpg</image:loc>
+      <image:title>お問い合わせ</image:title>
+    </image:image>
   </url>
+
+  <!-- ========== サイトマップ(HTML版) ========== -->
+  <url>
+    <loc>https://sausalito-yc.github.io/yacht/sitemap.html</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/sitemap.html"/>
+  </url>
+
 </urlset>
