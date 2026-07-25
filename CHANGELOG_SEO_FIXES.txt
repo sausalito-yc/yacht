@@ -1,0 +1,26 @@
+Sausalito Yacht Club site fixes (2026-07-25)
+
+Changed files:
+- contact.html
+- about.html
+- access.html
+- access-old.html
+- access_responsive_map.html
+- beginners.html
+- experienced.html
+- faq.html
+- fees.html
+- index.html
+- sitemap.html
+- trial.html
+- sitemap.xml
+
+Main fixes:
+1. Fixed broken canonical / og:url / hreflang / structured-data URLs on contact.html (incorrect /i and /icontact.html paths).
+2. Fixed broken social preview image paths on contact.html.
+3. Replaced placeholder Instagram links in JSON-LD and page links with the actual club Instagram URL: https://instagram.com/sailingyacht4714/
+4. Updated sitemap.xml lastmod dates to 2026-07-25 to reflect the current revision.
+5. Added noindex to access-old.html to reduce duplicate/obsolete page indexing risk.
+
+Note:
+These are code/structure fixes only. Search traffic also depends on Google Search Console indexing, external links, and local profiles (e.g. Google Business Profile), which are outside static HTML fixes.

@@ -6,7 +6,7 @@
   <!-- ========== トップページ ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/"/>
@@ -21,7 +21,7 @@
   <!-- ========== 無料体験(コンバージョン最重要) ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/trial.html</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/trial.html"/>
@@ -34,7 +34,7 @@
   <!-- ========== はじめての方 ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/beginners.html</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/beginners.html"/>
@@ -47,7 +47,7 @@
   <!-- ========== 経験者の方 ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/experienced.html</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/experienced.html"/>
@@ -60,7 +60,7 @@
   <!-- ========== クラブについて・歴史 ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/about.html</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/about.html"/>
@@ -73,7 +73,7 @@
   <!-- ========== 会費・料金 ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/fees.html</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/fees.html"/>
@@ -86,7 +86,7 @@
   <!-- ========== アクセス・施設 ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/access.html</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/access.html"/>
@@ -99,7 +99,7 @@
   <!-- ========== FAQ ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/faq.html</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/faq.html"/>
@@ -112,7 +112,7 @@
   <!-- ========== お問い合わせ ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/contact.html</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/contact.html"/>
@@ -125,7 +125,7 @@
   <!-- ========== サイトマップ(HTML版) ========== -->
   <url>
     <loc>https://sausalito-yc.github.io/yacht/sitemap.html</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://sausalito-yc.github.io/yacht/sitemap.html"/>
